@@ -144,4 +144,8 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li><a href="https://www.udemy.com/certificate/UC-aa84cfe0-8ca9-4811-a100-6a730a5a906c/">Learn JMeter from Scratch on Live Apps-Performance Testing</a></li>
 <li><a href="https://www.udemy.com/certificate/UC-b3fa3dbe-db56-40de-a0de-14b90c4cbd13/">Cypress-Modern Automation Testing from Scratch + Mocha and Cucumber Frameworks</a></li>
 <li><a href="https://www.udemy.com/certificate/UC-b438a4e0-1d72-4b38-8354-88429767c3fd/">Selenium WebDriver with Java -Basics to Advanced+Frameworks</a></li>
+<li><a href="https://www.dicoding.com/certificates/07Z6887NWXQR">Learn the Basics of Structured Query Language (SQL)</a></li>
+<li><a href="https://www.dicoding.com/certificates/07Z6W7292ZQR">Getting Started with Python Programming</a></li>
+<li><a href="https://www.dicoding.com/certificates/JMZVNG1VNPN9">Learn to Make Web Front-End for Beginners</a></li>
+<li><a href="https://www.dicoding.com/certificates/GRX5KNY32Z0M">Cloud Practitioner Essentials (Learn AWS Cloud Basics)</a>></li>
 </ul>
