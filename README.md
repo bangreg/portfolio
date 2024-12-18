@@ -33,5 +33,6 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li><a href="https://www.npmjs.com/">NPM</a> - to manage libraries and packages in JavaScript development, particularly for Node.js projects</li>
 <li><a href="https://github.com/nvm-sh/nvm">NVM</a> - to manage multiple active node.js versions</li>
 <li><a href="https://www.vmware.com/">VMWare Player</a> - virtualization tool that allows users to run multiple operating systems on a single machine</li>
-<li>SSH</li>
+<li><a href="https://bitvise.com/ssh-client">Bitvise SSH Client</a> -  to securely connect to remote servers</li>
+<li><a href="https://www.putty.org/">Putty</a> - an SSH and telnet client</li>
 </ul>
