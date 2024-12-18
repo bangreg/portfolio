@@ -137,6 +137,7 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 
 <h3>Courses📚🎓</h3>
 <ul>
+<li><a href="https://www.udemy.com/certificate/UC-FPO6HQ8T/">ISTQB Certified Tester Foundation Level Training (CTFL)</a></li>
 <li><a href="https://www.udemy.com/certificate/UC-IQAYFRKL/">Master Software Testing + Jira + Agile on Live App-Be a Team Lead</a></li>
 <li><a href="https://www.udemy.com/certificate/UC-SVWHYK6J/">Katalon Studio - Step by Step for Beginners</a></li>
 <li><a href="https://www.udemy.com/certificate/UC-U2RKYQOL/">Automate everything with Katalon Studio</a></li>
