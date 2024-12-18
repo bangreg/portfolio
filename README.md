@@ -25,7 +25,13 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li><a href="https://www.selenium.dev/">Selenium</a> - Automation testing</li>
 <li><a href="https://katalon.com/">Katalon - Automation testing</li>
 <li><a href="https://visualstudio.microsoft.com/">Visual Studio Code</a> - practicing HTML and CSS</li>
-<li><a href="https://notepad-plus-plus.org/downloads/">Notepad++</a> - practicing HTML and CSS</li>
+<li><a href="https://notepad-plus-plus.org/downloads/">Notepad++</a> - practicing HTML and CSS, log analysis tool</li>
 <li><a href="https://jwt.io/">jwt.io<a> - to analyze JSON Web Tokens</li>
 <li><a href="https://www.w3schools.com/css/css_editor.asp">CSS online</a> - edit HTML, CSS and JavaScript code, and view result in browser</li>
+<li><a href="https://nodejs.org/en">Node.js</a> - runtime environment for JavaScript</li>
+<li><a href="https://appium.io/">Appium</a> - Automation testing for Android/iOS mobile app</li>
+<li><a href="https://www.npmjs.com/">NPM</a> - to manage libraries and packages in JavaScript development, particularly for Node.js projects</li>
+<li><a href="https://github.com/nvm-sh/nvm">NVM</a> - to manage multiple active node.js versions</li>
+<li><a href="https://www.vmware.com/">VMWare Player</a> - virtualization tool that allows users to run multiple operating systems on a single machine</li>
+<li>SSH</li>
 </ul>
