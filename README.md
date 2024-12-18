@@ -35,4 +35,5 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li><a href="https://www.vmware.com/">VMWare Player</a> - virtualization tool that allows users to run multiple operating systems on a single machine</li>
 <li><a href="https://bitvise.com/ssh-client">Bitvise SSH Client</a> -  to securely connect to remote servers</li>
 <li><a href="https://www.putty.org/">Putty</a> - an SSH and telnet client</li>
+<li><a href="https://www.fortinet.com/support/product-downloads">Forticlient VPN</a> - secure remote access to a network </li>
 </ul>
