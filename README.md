@@ -102,5 +102,19 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
     </tbody>
 </table>
 
-<li></li>
+
+<li>Rest API testing</li>
+<li>ISTQB Foundation Level knowledge</li>
+<li>Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)</li>
+<li>Software testing</li>
+<li>Creating test cases</li>
+<li>Reporting bugs</li>
+<li>Creating bug reports</li>
+<li>Basic Python - for test automation</li>
+<li>Basic HTML and CSS</li>
+<li>Creating documentation</li>
+<li>experience with testing SaaS web applications</li>
+<li>performing smoke tests</li>
+<li>testing UAT</li>
+<li>scrum workflow</li>
 </ul>
