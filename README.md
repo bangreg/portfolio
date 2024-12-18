@@ -151,4 +151,6 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li><a href="https://www.dicoding.com/certificates/QLZ929R87X5D">Learn DevOps Basics</a></li>
 <li><a href="https://www.dicoding.com/certificates/N9ZOD19NRPG5">Learn JavaScript Programming Basics</a></li>
 <li><a href="https://www.dicoding.com/certificates/0LZ04VGY0P65">Getting Started with Java Programming</a></li>
+<li><a href="https://www.dicoding.com/certificates/NVP79N7JVZR0">Learn Computer Networks for Beginners</a></li>
+<li><a href="https://www.coursera.org/account/accomplishments/verify/GEEYVHUH9MZP">Google IT Support Professional</a></li>
 </ul>
