@@ -132,5 +132,15 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li>critical thinking</li>
 <li>user empathy</li>
 <li>documentation skills to ensure high-quality testing</li> 
-<li>collaboratio</li>
+<li>collaboration</li>
+</ul>
+
+<h3>Courses📚🎓</h3>
+<ul>
+<li><a href="https://www.udemy.com/certificate/UC-IQAYFRKL/">Master Software Testing + Jira + Agile on Live App-Be a Team Lead</a></li>
+<li>Katalon Studio - Step by Step for Beginners</li>
+<li><a href="https://www.udemy.com/certificate/UC-SVWHYK6J/">Automate everything with Katalon Studio</a></li>
+<li><a href="https://www.udemy.com/certificate/UC-aa84cfe0-8ca9-4811-a100-6a730a5a906c/">Learn JMeter from Scratch on Live Apps-Performance Testing</a></li>
+<li><a href="https://www.udemy.com/certificate/UC-b3fa3dbe-db56-40de-a0de-14b90c4cbd13/">Cypress-Modern Automation Testing from Scratch + Mocha and Cucumber Frameworks</a></li>
+<li><a href="https://www.udemy.com/certificate/UC-b438a4e0-1d72-4b38-8354-88429767c3fd/">Selenium WebDriver with Java -Basics to Advanced+Frameworks</a></li>
 </ul>
