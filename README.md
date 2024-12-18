@@ -119,3 +119,18 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li>scrum workflow</li>
 <li>Unit testing, integration testing, End-To-End testing</li>
 </ul>
+
+<h3>Soft skills 💡🧠🌱</h3>
+<ul>
+<li>pattention to detail</li>
+<li>effective communication</li>
+<li>problem-solving</li>
+<li>teamwork</li>
+<li>time management</li>
+<li>adaptability</li>
+<li>persistence</li>
+<li>critical thinking</li>
+<li>user empathy</li>
+<li>documentation skills to ensure high-quality testing</li> 
+<li>collaboratio</li>
+</ul>
