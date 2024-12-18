@@ -37,3 +37,70 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li><a href="https://www.putty.org/">Putty</a> - an SSH and telnet client</li>
 <li><a href="https://www.fortinet.com/support/product-downloads">Forticlient VPN</a> - secure remote access to a network </li>
 </ul>
+<br>
+<h3>Tech Skill 💻</h3>
+<ul><li>SQL</li>
+<table>
+    <thead>
+        <tr>
+            <th>Skill Category</th>
+            <th>Skill Description</th>
+            <th>Example</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Database Creation</td>
+            <td>Creating and managing databases for storing data</td>
+            <td>CREATE DATABASE database_name;</td>
+        </tr>
+        <tr>
+            <td>Table Creation</td>
+            <td>Defining tables and their columns to store data</td>
+            <td>CREATE TABLE table_name (id INT, name VARCHAR(100));</td>
+        </tr>
+        <tr>
+            <td>Data Insertion</td>
+            <td>Inserting new records into tables</td>
+            <td>INSERT INTO table_name (id, name) VALUES (1, 'John Doe');</td>
+        </tr>
+        <tr>
+            <td>Data Retrieval</td>
+            <td>Querying data from tables using SELECT</td>
+            <td>SELECT * FROM table_name;</td>
+        </tr>
+        <tr>
+            <td>Data Update</td>
+            <td>Updating existing records in tables</td>
+            <td>UPDATE table_name SET name = 'Jane Doe' WHERE id = 1;</td>
+        </tr>
+        <tr>
+            <td>Data Deletion</td>
+            <td>Removing records from tables</td>
+            <td>DELETE FROM table_name WHERE id = 1;</td>
+        </tr>
+        <tr>
+            <td>Joining Tables</td>
+            <td>Combining data from multiple tables</td>
+            <td>SELECT * FROM table1 JOIN table2 ON table1.id = table2.id;</td>
+        </tr>
+        <tr>
+            <td>Aggregation Functions</td>
+            <td>Performing calculations like COUNT, AVG, SUM, etc.</td>
+            <td>SELECT COUNT(*) FROM table_name;</td>
+        </tr>
+        <tr>
+            <td>Subqueries</td>
+            <td>Using a query inside another query</td>
+            <td>SELECT * FROM table_name WHERE id IN (SELECT id FROM another_table);</td>
+        </tr>
+        <tr>
+            <td>Indexing</td>
+            <td>Creating indexes to optimize query performance</td>
+            <td>CREATE INDEX idx_name ON table_name (column_name);</td>
+        </tr>
+    </tbody>
+</table>
+
+<li></li>
+</ul>
