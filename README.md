@@ -148,4 +148,7 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li><a href="https://www.dicoding.com/certificates/07Z6W7292ZQR">Getting Started with Python Programming</a></li>
 <li><a href="https://www.dicoding.com/certificates/JMZVNG1VNPN9">Learn to Make Web Front-End for Beginners</a></li>
 <li><a href="https://www.dicoding.com/certificates/GRX5KNY32Z0M">Cloud Practitioner Essentials (Learn AWS Cloud Basics)</a>></li>
+<li><a href="https://www.dicoding.com/certificates/QLZ929R87X5D">Learn DevOps Basics</a></li>
+<li><a href="https://www.dicoding.com/certificates/N9ZOD19NRPG5">Learn JavaScript Programming Basics</a></li>
+<li><a href="https://www.dicoding.com/certificates/0LZ04VGY0P65">Getting Started with Java Programming</a></li>
 </ul>
