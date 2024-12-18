@@ -11,19 +11,21 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 
 <h3>Tools 🔧</h3>
 <ul>
-<li><a href="https://www.atlassian.com/pl/software/jira">Jira - project management</a></li>
-<li><a href="https://www.workplace.com/">Workchat - communication within the team</a>li>
-<li><a href="https://developer.chrome.com/docs/devtools">Chrome Devtools - for better testing and improving bug reports</a></li>
-<li><a href="https://drive.google.com/drive/u/0/home?hl=id-ID">Google Drive - storing data</a></li>
-<li><a href="https://git-scm.com/">Git - for better work in development team and controlling software versions</li>
-<li><a href="https://github.com/">GitHub - supporting Git and preparing my repositories</a></li>
-<li><a href="">Figma - cloud app of user interface design, websites, and mobile applications</a></li>
-<li>Xampp - practicing SQL</li>
-<li>Postman - API testing</li>
-<li>SoapUI</li>
-Pycharm - IDE for Python
-Selenium
-Katalon
-Visual Studio Code - practicing HTML and CSS
-Notepad ++
+<li><a href="https://www.atlassian.com/pl/software/jira">Jira</a> - project management</li>
+<li><a href="https://www.workplace.com/">Workplace Chat</a> - communication within the team</li>
+<li><a href="https://developer.chrome.com/docs/devtools">Chrome Devtools</a> - for better testing and improving bug reports</li>
+<li><a href="https://drive.google.com/drive/u/0/home?hl=id-ID">Google Drive</a> - storing data</li>
+<li><a href="https://git-scm.com/">Git</a> - for better work in development team and controlling software versions</li>
+<li><a href="https://github.com/">GitHub</a> - supporting Git and preparing my repositories</li>
+<li><a href="https://www.figma.com/">Figma</a> - cloud app of user interface design, websites, and mobile applications</li>
+<li><a href="https://www.apachefriends.org/download.html">Xampp</a> - Practicing SQL</li>
+<li><a href="https://sqlyog.en.softonic.com/">SQLyog</a> - Administrate MySQL databases </li>
+<li><a href="https://www.postman.com/">Postman</a> - API testing</li>
+<li><a href="https://www.soapui.org/">SoapUI</a> - API testing</li>
+<li><a href="https://www.selenium.dev/">Selenium</a> - Automation testing</li>
+<li><a href="https://katalon.com/">Katalon - Automation testing</li>
+<li><a href="https://visualstudio.microsoft.com/">Visual Studio Code</a> - practicing HTML and CSS</li>
+<li><a href="https://notepad-plus-plus.org/downloads/">Notepad++</a> - practicing HTML and CSS</li>
+<li><a href="https://jwt.io/">jwt.io<a> - to analyze JSON Web Tokens</li>
+<li><a href="https://www.w3schools.com/css/css_editor.asp">CSS online</a> - edit HTML, CSS and JavaScript code, and view result in browser</li>
 </ul>
