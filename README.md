@@ -117,4 +117,5 @@ As a QA Executive since 2019, I have been dedicated to ensuring software quality
 <li>performing smoke tests</li>
 <li>testing UAT</li>
 <li>scrum workflow</li>
+<li>Unit testing, integration testing, End-To-End testing</li>
 </ul>
