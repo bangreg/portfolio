@@ -26,7 +26,7 @@ This portfolio reflects both my expertise and the practical skills I've acquired
 <li><a href="https://www.soapui.org/">SoapUI</a> - API testing</li>
 <li><a href="https://www.selenium.dev/">Selenium</a> - Automation testing</li>
 <li><a href="https://www.cypress.io/">Cypress</a> - Automation testing for web application</li>
-<li><a href="https://katalon.com/">Katalon - Automation testing for web, mobile, and API</li>
+<li><a href="https://katalon.com/">Katalon</a> - Automation testing for web, mobile, and API</li>
 <li><a href="https://visualstudio.microsoft.com/">Visual Studio Code</a> - practicing HTML and CSS</li>
 <li><a href="https://notepad-plus-plus.org/downloads/">Notepad++</a> - practicing HTML and CSS, log analysis tool</li>
 <li><a href="https://jwt.io/">jwt.io<a> - to analyze JSON Web Tokens</li>
