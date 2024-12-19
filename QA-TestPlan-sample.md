@@ -1,5 +1,5 @@
 <h3>Test Plan: Payment to Philippines via PhilGov Service</h3>
-1. Test Plan ID
+<ol><li>1. Test Plan ID</li>
 PAY-PHIL-TP001
 
 2. Objective
@@ -76,3 +76,4 @@ UAT approval from stakeholders.
 10. Approvals
 Test Plan Prepared By: QA Engineer
 Approved By: QA Lead, Project Manager
+</ol>
