@@ -19,7 +19,8 @@ This portfolio reflects both my expertise and the practical skills I've acquired
 <li><a href="https://git-scm.com/">Git</a> - for better work in development team and controlling software versions</li>
 <li><a href="https://github.com/">GitHub</a> - supporting Git and preparing my repositories</li>
 <li><a href="https://www.figma.com/">Figma</a> - cloud app of user interface design, websites, and mobile applications</li>
-<li><a href="https://www.apachefriends.org/download.html">Xampp</a> - Practicing SQL</li>
+<li><a href="https://www.apachefriends.org/download.html">Xampp</a> - web development and testing on localhost, Practicing SQL</li>
+<li><a href="https://sourceforge.net/projects/wampserver/">Wampp</a> - web development and testing on localhost, Practicing SQL</li>
 <li><a href="https://sqlyog.en.softonic.com/">SQLyog</a> - Administrate MySQL databases </li>
 <li><a href="https://www.postman.com/">Postman</a> - API testing</li>
 <li><a href="https://www.soapui.org/">SoapUI</a> - API testing</li>
@@ -37,6 +38,7 @@ This portfolio reflects both my expertise and the practical skills I've acquired
 <li><a href="https://bitvise.com/ssh-client">Bitvise SSH Client</a> -  to securely connect to remote servers</li>
 <li><a href="https://www.putty.org/">Putty</a> - an SSH and telnet client</li>
 <li><a href="https://www.fortinet.com/support/product-downloads">Forticlient VPN</a> - secure remote access to a network </li>
+<li><a href="https://www.oracle.com/database/sqldeveloper/technologies/what-is-sql-developer/">Oracle SQL Dveloper</a> - user interface for database users and administrators</li>
 </ul>
 <br>
 <h3>Tech Skill 💻</h3>
