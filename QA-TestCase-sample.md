@@ -3,6 +3,7 @@ Test Case ID: PAY-PHIL-TP-TC001
 
 Objective: Verify the end-to-end payment flow to the Philippines using PhilGov Service works as expected, ensuring correct status updates to "Fully Paid."
 <hr>
+
 <h3Test Steps></h3>
 Preconditions:
 <ul>
@@ -13,14 +14,14 @@ Preconditions:
 
 <table>
 <tr><td>Step No.</td><td>Action	Expected</td><td>Result</td></tr>
-1	Log in to the system as a user.	User is successfully logged in and redirected to the dashboard.
-2	Navigate to the payment page and select "Philippines" as the destination country.	The option to pay via PhilGov Service is visible in the payment methods list.
-3	Select "PhilGov Service" and proceed to the payment details page.	Payment details form appears with fields for Reference ID, Amount, and Purpose of Payment.
-4	Enter valid payment details (e.g., REF12345, PHP 10000, "Government Fees").	Form is validated, and the "Proceed to Payment" button is enabled.
-5	Click "Proceed to Payment" and authenticate using the OTP sent by PhilGov Service.	OTP is verified, and user is redirected back to the application with a status of "Pending Confirmation."
-6	Simulate API callback from PhilGov Service with the status of Confirmed.	Payment status in the system updates to "Confirmed."
-7	Verify the system changes the payment status to "Fully Paid" and generates a receipt.	Payment status changes to "Fully Paid," and receipt is available for download.
-8	Download and verify the receipt for accuracy (e.g., payment amount, reference ID, date).	Receipt details match the transaction, and the file is downloaded successfully.
+<tr><td>1</td><td>Log in to the system as a user.</td><td>User is successfully logged in and redirected to the dashboard.</td></tr>
+<tr><td>2</td><td>Navigate to the payment page and select "Philippines" as the destination country.</td><td>The option to pay via PhilGov Service is visible in the payment methods list.</td></tr>
+<tr><td>3</td><td>Select "PhilGov Service" and proceed to the payment details page.</td><td>Payment details form appears with fields for Reference ID, Amount, and Purpose of Payment.</td></tr>
+<tr><td>4</td><td>Enter valid payment details (e.g., REF12345, PHP 10000, "Government Fees").</td><td>Form is validated, and the "Proceed to Payment" button is enabled.</td></tr>
+<tr><td>5</td><td>Click "Proceed to Payment" and authenticate using the OTP sent by PhilGov Service.</td><td>OTP is verified, and user is redirected back to the application with a status of "Pending Confirmation."</td></tr>
+<tr><td>6</td><td>Simulate API callback from PhilGov Service with the status of Confirmed.</td><td>Payment status in the system updates to "Confirmed."</td></tr>
+<tr><td>7</td><td>Verify the system changes the payment status to "Fully Paid" and generates a receipt.</td><td>Payment status changes to "Fully Paid," and receipt is available for download.</td></tr>
+<tr><td>8</td><td>Download and verify the receipt for accuracy (e.g., payment amount, reference ID, date).</td><td>	Receipt details match the transaction, and the file is downloaded successfully.</td></tr>
 </table>
 Test Data
 Field	Value
