@@ -4,7 +4,7 @@ Test Case ID: PAY-PHIL-TP-TC001
 Objective: Verify the end-to-end payment flow to the Philippines using PhilGov Service works as expected, ensuring correct status updates to "Fully Paid."
 <hr>
 
-<h3>Test Steps></h3>
+<h2>Test Steps></h2>
 Preconditions:
 <ul>
 <li>User has a valid PhilGov account.</li>
