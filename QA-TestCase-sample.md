@@ -24,7 +24,7 @@ Preconditions:
 <tr><td>7</td><td>Verify the system changes the payment status to "Fully Paid" and generates a receipt.</td><td>Payment status changes to "Fully Paid," and receipt is available for download.</td></tr>
 <tr><td>8</td><td>Download and verify the receipt for accuracy (e.g., payment amount, reference ID, date).</td><td>	Receipt details match the transaction, and the file is downloaded successfully.</td></tr>
 </table>
-
+<hr>
 <strong>Test Data</strong>
 <table><tr><td>Field</td><td>Value</td></tr>
 <tr><td>Destination</td><td>Philippines</td></tr>
@@ -33,7 +33,7 @@ Preconditions:
 <tr><td>Amount</td><td>PHP 10,000</td></tr>
 <tr><td>Purpose	Government</td><td>Fees</td></tr>
 </table>
-
+<hr>
 Expected Outputs
 UI Output : Payment status transactions: "Pending Confirmation" -> "Confirmed" -> "Fully Paid". Receipt is generated with correct details.
 
@@ -52,12 +52,11 @@ Database Entry:
 Email Notification:
         Subject: "Payment Confirmation - Fully Paid."
         Body: "Your payment to the Philippines using PhilGov Service has been successfully processed."
-
+<hr>
 Pass/Fail Criteria:
-
-    Pass: All steps execute successfully with outputs matching expected results.
-    Fail: Any deviation in status updates, API responses, receipt details, or user notifications.
-
+<ul><li>Pass: All steps execute successfully with outputs matching expected results.</li>
+    <li>Fail: Any deviation in status updates, API responses, receipt details, or user notifications.</li>
+</ul>
 Postconditions:
 
     Payment is marked as completed in the database.
