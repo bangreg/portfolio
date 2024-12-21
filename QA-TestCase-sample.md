@@ -4,7 +4,8 @@ Test Case ID: PAY-PHIL-TP-TC001
 Objective: Verify the end-to-end payment flow to the Philippines using PhilGov Service works as expected, ensuring correct status updates to "Fully Paid."
 <hr>
 
-<h2>Test Steps></h2>
+<strong>Test Steps</strong>
+
 Preconditions:
 <ul>
 <li>User has a valid PhilGov account.</li>
@@ -23,13 +24,16 @@ Preconditions:
 <tr><td>7</td><td>Verify the system changes the payment status to "Fully Paid" and generates a receipt.</td><td>Payment status changes to "Fully Paid," and receipt is available for download.</td></tr>
 <tr><td>8</td><td>Download and verify the receipt for accuracy (e.g., payment amount, reference ID, date).</td><td>	Receipt details match the transaction, and the file is downloaded successfully.</td></tr>
 </table>
-Test Data
-Field	Value
-Destination	Philippines
-Payment Method	PhilGov Service
-Reference ID	REF12345
-Amount	PHP 10,000
-Purpose	Government Fees
+
+<strong>Test Data</strong>
+<table><tr><td>Field</td><td>Value</td></tr>
+<tr><td>Destination</td><td>Philippines</td></tr>
+<tr><td>Payment Method</td><td>PhilGov Service</td></tr>
+<tr><td>Reference ID</td><td>REF12345</td></tr>
+<tr><td>Amount</td><td>PHP 10,000</td></tr>
+<tr><td>Purpose	Government</td><td>Fees</td></tr>
+</table>
+
 Expected Outputs
 
     UI Output:
