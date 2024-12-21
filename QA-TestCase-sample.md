@@ -35,12 +35,9 @@ Preconditions:
 </table>
 
 Expected Outputs
+UI Output : Payment status transactions: "Pending Confirmation" -> "Confirmed" -> "Fully Paid". Receipt is generated with correct details.
 
-    UI Output:
-        Payment status transitions: "Pending Confirmation" → "Confirmed" → "Fully Paid".
-        Receipt is generated with correct details.
-
-    API Callback Output:
+API Callback Output:
 
     {
         "payment_id": "5678",
@@ -49,10 +46,10 @@ Expected Outputs
         "timestamp": "2024-12-20T10:00:00Z"
     }
 
-    Database Entry:
+Database Entry:
         Payment status in payments table updates to Fully Paid.
 
-    Email Notification:
+Email Notification:
         Subject: "Payment Confirmation - Fully Paid."
         Body: "Your payment to the Philippines using PhilGov Service has been successfully processed."
 
