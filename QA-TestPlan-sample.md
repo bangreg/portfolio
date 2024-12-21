@@ -54,13 +54,13 @@ Final Validation (UAT)	2024-12-30	2024-12-30	QA + Users<br><br>
 Test Cases (functional, integration, regression).
 Bug reports in JIRA.
 Test Summary Report after execution.
-Screenshots/logs of critical issues.
+Screenshots/logs of critical issues.<br><br>
 
 <li>Risks and Mitigation</li>
 Risk	Mitigation
 PhilGov API downtime	Use mock API to simulate responses.
 Delayed receipt generation	Test with smaller transaction amounts for faster validation.
-Complex edge cases not accounted for	Conduct exploratory testing and add cases iteratively.
+Complex edge cases not accounted for	Conduct exploratory testing and add cases iteratively.<br><br>
 
 <li>Entry and Exit Criteria</li>
 Entry Criteria:
