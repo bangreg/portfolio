@@ -1,35 +1,35 @@
 <h3>Release Notes</h3>
 
-Feature Name: Payment to Philippines via PhilGov Service
-Release Version: 1.0.0
+Feature Name: Payment to Philippines via PhilGov Service<br>
+Release Version: 1.0.0<br>
 Release Date: 2024-12-22
 <hr>
 1. New Features
 <ul>
-    Philippines Payment Integration:
+    1.Philippines Payment Integration:
         <li>Users can now make payments to the Philippines using the PhilGov Service.</li>
         <li>Supports payments for government-related purposes such as taxes, fees, and permits.</li>
   <br>
-  End-to-End Payment Status Tracking:
+  2.End-to-End Payment Status Tracking:
         <li>Payment statuses: Pending Confirmation, Confirmed, and Fully Paid.</li>
         <li>Real-time updates based on PhilGov API callbacks.</li>
   <br>
-  Receipt Generation:
+  3.Receipt Generation:
         <li>Automated receipt generation after payment completion.</li>
         <li>Receipts are downloadable via a secure link.</li>
   <br>
-  OTP Verification:
+  4.OTP Verification:
         <li>Enhanced security with OTP authentication during the payment process.</li>
   </ul>
   <hr>
 2. Enhancements
-    UI/UX Improvements:
+    1.UI/UX Improvements:
         <ul>
             <li>Streamlined payment form with user-friendly validation messages.</li>
             <li>Clear status indicators for each payment stage.</li>
         </ul>
     <br>
-    API Performance Optimization:
+    2.API Performance Optimization:
         <ul>
             <li>Improved response times for PhilGov API requests.</li>
             <li>Enhanced error handling for edge cases (e.g., network timeouts).</li>
@@ -43,17 +43,17 @@ Release Date: 2024-12-22
 </ul>
 <hr>
 4. Known Issues
-    Issue: 
+    1.Issue: 
         <ul><li>Receipt download may take longer on mobile devices using slower networks.</li>
         <li>Workaround: Users can retry download on a stable connection.</li></ul>
-    Issue: <ul><li>Edge browser users may experience layout misalignment on the payment page.</li>
+    2.Issue: <ul><li>Edge browser users may experience layout misalignment on the payment page.</li>
         <li>Workaround: Recommended browsers: Chrome, Safari.</li></ul>
 <hr>
 5. Technical Details
-    API Endpoint for PhilGov Service:
+    1.API Endpoint for PhilGov Service:
         <ul><li>/api/v1/philgov/payments</li>
         <li>Supports both test and production environments.</li></ul>
-    Logs and Monitoring:
+    2.Logs and Monitoring:
         <ul>
         <li>All payment transactions are logged in the system for auditing purposes.</li>
         <li>Integrated monitoring with tools like Nagios for real-time performance tracking.</li></ul>
