@@ -34,7 +34,8 @@ Preconditions:
 <tr><td>Purpose	Government</td><td>Fees</td></tr>
 </table>
 <hr>
-Expected Outputs
+<strong>Expected Outputs</strong>
+
 UI Output : Payment status transactions: "Pending Confirmation" -> "Confirmed" -> "Fully Paid". Receipt is generated with correct details.
 
 API Callback Output:
