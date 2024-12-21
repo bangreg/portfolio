@@ -54,11 +54,11 @@ Email Notification:
         Subject: "Payment Confirmation - Fully Paid."
         Body: "Your payment to the Philippines using PhilGov Service has been successfully processed."
 <hr>
-Pass/Fail Criteria:
+<strong>Pass/Fail Criteria:</strong>
 <ul><li>Pass: All steps execute successfully with outputs matching expected results.</li>
     <li>Fail: Any deviation in status updates, API responses, receipt details, or user notifications.</li>
 </ul>
 <hr>
-Postconditions:
+<strong>Postconditions:</strong>
 <ul><li>Payment is marked as completed in the database.</li>
     <li>Receipt is downloadable and stored in the system.</li></ul>
