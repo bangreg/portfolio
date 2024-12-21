@@ -42,7 +42,7 @@ Release Date: 2024-12-22
     <li>Resolved API error mapping for unsupported government services.</li>
 </ul>
 <hr>
-4. Known Issues
+4. Known Issues<br>
     1. Issue: 
         <ul><li>Receipt download may take longer on mobile devices using slower networks.</li>
         <li>Workaround: Users can retry download on a stable connection.</li></ul>
