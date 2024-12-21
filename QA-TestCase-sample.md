@@ -57,7 +57,7 @@ Pass/Fail Criteria:
 <ul><li>Pass: All steps execute successfully with outputs matching expected results.</li>
     <li>Fail: Any deviation in status updates, API responses, receipt details, or user notifications.</li>
 </ul>
+<hr>
 Postconditions:
-
-    Payment is marked as completed in the database.
-    Receipt is downloadable and stored in the system.
+<ul><li>Payment is marked as completed in the database.</li>
+    <li>Receipt is downloadable and stored in the system.</li></ul>
