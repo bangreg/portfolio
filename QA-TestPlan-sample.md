@@ -43,12 +43,14 @@ Sample payment amounts (PHP 1,000, PHP 10,000).
 Mock API responses for edge cases.
 
 <li>Test Schedule</li>
-Phase	Start Date	End Date	Responsible
-Test Case Preparation	2024-12-20	2024-12-22	QA Engineer
+<table>
+<tr><td>Phase</td><td>Start Date</td><td>End Date</td><td>Responsible</td>
+<tr><td>Test Case</td> <td>Preparation</td><td>2024-12-20</td><td>2024-12-22</td><td>QA Engineer</td></tr>
 Functional Testing	2024-12-23	2024-12-25	QA Engineer
 Integration Testing	2024-12-26	2024-12-27	Dev + QA
 Regression Testing	2024-12-28	2024-12-29	Automation
 Final Validation (UAT)	2024-12-30	2024-12-30	QA + Users<br><br>
+</table>
 
 <li>Test Deliverables</li>
 Test Cases (functional, integration, regression).
