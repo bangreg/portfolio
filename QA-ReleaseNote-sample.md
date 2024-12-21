@@ -49,7 +49,7 @@ Release Date: 2024-12-22
     2. Issue: <ul><li>Edge browser users may experience layout misalignment on the payment page.</li>
         <li>Workaround: Recommended browsers: Chrome, Safari.</li></ul>
 <hr>
-5. Technical Details
+5. Technical Details<br>
     1. API Endpoint for PhilGov Service:
         <ul><li>/api/v1/philgov/payments</li>
         <li>Supports both test and production environments.</li></ul>
@@ -65,7 +65,7 @@ Release Date: 2024-12-22
     <li>Rollout Plan: Gradual rollout over a 24-hour window to monitor live performance.</li>
 </ul>
 <hr>
-7. Contact Information
-For support or to report an issue:
+7. Contact Information<br>
+For support or to report an issue:<br>
 Email: support@example.com<br>
 Phone: +1-800-123-4567
