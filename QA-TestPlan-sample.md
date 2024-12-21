@@ -44,13 +44,29 @@ Mock API responses for edge cases.
 
 <li>Test Schedule</li>
 <table>
-<tr><td>Phase</td><td>Start Date</td><td>End Date</td><td>Responsible</td></tr>
-<tr><td>Test Case</td> <td>Preparation</td><td>2024-12-20</td><td>2024-12-22</td><td>QA Engineer</td></tr>
-<tr><td>Functional Testing</td><td>2024-12-23</td><td>2024-12-25</td><td>QA Engineer</td></tr>
+<tr>
+  <td>Phase</td>
+  <td>Start Date</td>
+  <td>End Date</td>
+  <td>Responsible</td>
+  
+</tr>
+<tr>
+  <td>Test Case Preparation</td>
+  <td>2024-12-20</td>
+  <td>2024-12-22</td>
+  <td>QA Engineer</td>
+</tr>
+<tr>
+  <td>Functional Testing</td>
+  <td>2024-12-23</td>
+  <td>2024-12-25</td>
+  <td>QA Engineer</td>
+</tr>
 <tr><td>Integration Testing</td><td>2024-12-26</td><td>2024-12-27</td><td>Dev + QA</td></tr>
 <tr><td>Regression Testing</td><td>2024-12-28</td><td>2024-12-29</td><td>Automation</td></tr>
 <tr><td>Final Validation (UAT)</td><td>2024-12-30</td><td>2024-12-30</td><td>QA + Users</td></tr>
-</table><br><br>
+</table>
 
 <li>Test Deliverables</li>
 Test Cases (functional, integration, regression).
