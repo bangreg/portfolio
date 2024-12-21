@@ -1,9 +1,9 @@
 <h3>Test Plan: Payment to Philippines via PhilGov Service</h3>
 <ol><li>Test Plan ID</li>
-PAY-PHIL-TP001
+PAY-PHIL-TP001<br><br>
 
 <li>Objective</li>
-To ensure the payment flow to the Philippines via the PhilGov service is functioning correctly, meeting all functional and non-functional requirements, from initiation to confirmation of a "Fully Paid" status.
+To ensure the payment flow to the Philippines via the PhilGov service is functioning correctly, meeting all functional and non-functional requirements, from initiation to confirmation of a "Fully Paid" status.<br><br>
 
 <li>Scope</li>
 In-Scope:
