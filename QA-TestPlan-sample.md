@@ -29,7 +29,6 @@ Functional Testing (form validation, flow correctness).
 API Testing (response codes, data validation).
 Negative Testing (invalid inputs, failed authentication).
 Regression Testing (ensuring no disruption in existing features).
-
 Automation Approach:
 Automate repetitive tasks like regression tests using Playwright.
 Manual testing for scenarios involving UI elements or edge cases.
@@ -42,7 +41,6 @@ Test Data:
 Valid PhilGov account credentials.
 Sample payment amounts (PHP 1,000, PHP 10,000).
 Mock API responses for edge cases.
-
 <li>Test Schedule</li>
 Phase	Start Date	End Date	Responsible
 Test Case Preparation	2024-12-20	2024-12-22	QA Engineer
