@@ -38,7 +38,7 @@ Preconditions:
 
 UI Output : Payment status transactions: "Pending Confirmation" -> "Confirmed" -> "Fully Paid". Receipt is generated with correct details.
 
-API Callback Output:
+API Callback Output of Confirmed and Fully Paid (This is just an example, not actual):
 
     {
         "payment_id": "5678",
@@ -46,6 +46,23 @@ API Callback Output:
         "transaction_reference": "PHGOV-12345",
         "timestamp": "2024-12-20T10:00:00Z"
     }
+
+    {
+        "payment_id": "5678",
+        "status": "Fully Paid",
+        "transaction_reference": "PHGOV-12345",
+        "amount": 10000,
+        "currency": "PHP",
+        "payment_method": "PhilGov Service",
+        "payer_name": "Juan Dela Cruz",
+        "timestamp": "2024-12-20T12:00:00Z",
+        "receipt_url": "https://example.com/receipts/5678",
+        "additional_info": {
+            "government_service": "PhilGov - Department of Finance",
+            "payment_purpose": "Tax Payment"
+        }
+    }
+
 
 Database Entry:
         Payment status in payments table updates to Fully Paid.
