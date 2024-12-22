@@ -88,35 +88,39 @@ Code Explanation
         <li>Guarantees the browser is closed after the test, even if an error occurs.</li>
     </ul>
 </ol>
+<hr>
 How to Run the Script
-
-    Requirements:
-        Java installed on your system.
-        ChromeDriver matching your Chrome browser version.
-        Maven (optional, for dependency management).
-
-    Using Maven:
+<ul>
+    <li>Requirements:</li>
+    <ul>
+        <li>Java installed on your system.</li>
+        <li>ChromeDriver matching your Chrome browser version.</li>
+        <li>Maven (optional, for dependency management).</li>
+    </ul>
+    <li>Using Maven:</li>
     Add Selenium dependencies to your pom.xml:
+    </ul>
 
-<dependencies>
-    <dependency>
-        <groupId>org.seleniumhq.selenium</groupId>
-        <artifactId>selenium-java</artifactId>
-        <version>4.14.0</version>
-    </dependency>
-</dependencies>
+    <dependencies>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.14.0</version>
+        </dependency>
+    </dependencies>
 
-Running the Script:
+<li>Running the Script:</li>
+<ul>   
+    <li>Save the file as HerokuAppTest.java.</li>
+    <li>Compile and run:</li>
+</ul>
 
-    Save the file as HerokuAppTest.java.
-    Compile and run:
-
-        javac HerokuAppTest.java
-        java HerokuAppTest
-
+    javac HerokuAppTest.java
+    java HerokuAppTest
+<hr>
 Expected Output
 
 If the script executes successfully, it will print:
 
-Title found: Welcome to the-internet
-Login Page opened: Login Page
+    Title found: Welcome to the-internet
+    Login Page opened: Login Page
