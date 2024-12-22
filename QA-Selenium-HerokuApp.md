@@ -5,6 +5,7 @@ Here's an example of a Selenium testing script in Java for the website https://t
 <li>Navigate to the "Form Authentication" page via the provided link.</li>
 <li>Verify that the "Login Page" is displayed.</li>
 </ul>
+<hr>
 Java Selenium Code Example
 
     import org.openqa.selenium.By;
@@ -59,28 +60,33 @@ Java Selenium Code Example
             }
         }
     }
-    
+<hr>    
 Code Explanation
-
-    Driver Setup:
-        System.setProperty specifies the location of the ChromeDriver.
-        ChromeOptions configures the browser to start maximized.
-
-    Test Steps:
-        Opens the main page of the-internet.herokuapp.com.
-        Finds elements using locators like By.tagName and By.linkText.
-        Navigates to the Form Authentication page and waits until it fully loads.
-
-    Assertions:
-        Uses assert to check if the retrieved text matches the expected values.
-        If the assertion fails, the script will stop with an error.
-
-    WebDriverWait:
-        Ensures that elements are present before interacting with them, avoiding errors due to elements not being fully loaded.
-
-    Finally Block:
-        Guarantees the browser is closed after the test, even if an error occurs.
-
+<ol>
+    <li>Driver Setup:</li>
+    <ul>
+        <li>System.setProperty specifies the location of the ChromeDriver.</li>
+        <li>ChromeOptions configures the browser to start maximized.</li>
+    </ul>
+    <li>Test Steps:</li>
+    <ul></ul>
+        <li>Opens the main page of the-internet.herokuapp.com.</li>
+        <li><Finds elements using locators like By.tagName and By.linkText.</li>
+        <li>Navigates to the Form Authentication page and waits until it fully loads.</li>
+    </ul>
+    <li>Assertions:</li>
+        <ul>
+        <li>Uses assert to check if the retrieved text matches the expected values.</li>
+        <li>If the assertion fails, the script will stop with an error.</li>
+    <li>WebDriverWait:</li>
+        <ul>
+        <li>Ensures that elements are present before interacting with them, avoiding errors due to elements not being fully loaded.</li>
+    </ul>
+    <li>Finally Block:</li>
+    <ul>
+        <li>Guarantees the browser is closed after the test, even if an error occurs.</li>
+    </ul>
+</ol>
 How to Run the Script
 
     Requirements:
