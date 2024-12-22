@@ -4,7 +4,7 @@ View documentation at https://web.postman.co/workspace/43cf99e0-c01c-4daf-9e97-8
 
 Knowledge:
 URL: https://api.example.com/users
-Metode HTTP:
+<br>Metode HTTP:
 
     GET /users: Gets a list of users.
     POST /users: Adds a new user.
