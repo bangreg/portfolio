@@ -12,7 +12,7 @@ URL: https://api.example.com/users
     PUT /users/{id}: Updates the data of a user with a specific ID.
     DELETE /users/{id}: Deletes a user with a specific ID.
 
-Practically at KasirAPI
+Practice at KasirAPI
 <hr>
 POST<br>
 1. registration: https://kasir-api.belajarqa.com/registration
