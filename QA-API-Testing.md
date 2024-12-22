@@ -6,11 +6,11 @@ Knowledge:
 URL: https://api.example.com/users
 Metode HTTP:
 
-    GET /users: Mendapatkan daftar pengguna.
-    POST /users: Menambahkan pengguna baru.
-    GET /users/{id}: Mendapatkan detail pengguna dengan ID tertentu.
-    PUT /users/{id}: Memperbarui data pengguna dengan ID tertentu.
-    DELETE /users/{id}: Menghapus pengguna dengan ID tertentu.
+    GET /users: Gets a list of users.
+    POST /users: Adds a new user.
+    GET /users/{id}: Gets details of a user with a specific ID.
+    PUT /users/{id}: Updates the data of a user with a specific ID.
+    DELETE /users/{id}: Deletes a user with a specific ID.
 
 Practically at KasirAPI
 <hr>
