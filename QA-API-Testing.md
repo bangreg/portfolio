@@ -14,9 +14,9 @@ Metode HTTP:
 
 Practically at KasirAPI
 <hr>
-POST
-1.registration: https://kasir-api.belajarqa.com/registration
-response:
+POST<br>
+1. registration: https://kasir-api.belajarqa.com/registration
+<br>response:
 
     {
       "name": "Toko Samuel",
@@ -24,17 +24,17 @@ response:
       "password": "123adsfadf@"
     }
 
-2.authentication: https://kasir-api.belajarqa.com/authentication
-response: 
+2. authentication: https://kasir-api.belajarqa.com/authentication
+<br>response: 
 
-    {
-      "email":"samuel@email.com",
-      "password":"123adsfadf@"
-    }
+       {
+          "email":"samuel@email.com",
+          "password":"123adsfadf@"
+       }
 
 3. users: https://kasir-api.belajarqa.com/users
-response:
-2.1 FailToCreateUsers
+<br>response:
+<br>2.1 FailToCreateUsers
 
        {
           "email":"samuel@email.com",
