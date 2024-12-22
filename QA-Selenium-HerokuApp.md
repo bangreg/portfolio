@@ -69,7 +69,7 @@ Code Explanation
         <li>ChromeOptions configures the browser to start maximized.</li>
     </ul>
     <li>Test Steps:</li>
-    <ul></ul>
+    <ul>
         <li>Opens the main page of the-internet.herokuapp.com.</li>
         <li><Finds elements using locators like By.tagName and By.linkText.</li>
         <li>Navigates to the Form Authentication page and waits until it fully loads.</li>
@@ -78,10 +78,11 @@ Code Explanation
         <ul>
         <li>Uses assert to check if the retrieved text matches the expected values.</li>
         <li>If the assertion fails, the script will stop with an error.</li>
+        </ul>
     <li>WebDriverWait:</li>
         <ul>
         <li>Ensures that elements are present before interacting with them, avoiding errors due to elements not being fully loaded.</li>
-    </ul>
+        </ul>
     <li>Finally Block:</li>
     <ul>
         <li>Guarantees the browser is closed after the test, even if an error occurs.</li>
