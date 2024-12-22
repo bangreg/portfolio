@@ -53,7 +53,7 @@ POST<br>
 <hr>
 GET
 1. users: https://kasir-api.belajarqa.com/users/3327a164-8988-4107-8bab-cbcb4a4e7c67
-response:
+<br>response:
     
     {    
     "status": "success",
@@ -67,7 +67,7 @@ response:
         }
     }
 2. userlist: https://kasir-api.belajarqa.com/users?q=kasir-serbaguna&p=1
-response:
+<br>response:
     
        {
           "status": "success",
@@ -90,14 +90,14 @@ response:
 <hr>
 DELETE
 1. deleteUser: https://kasir-api.belajarqa.com/users/:userId
-response:
+<br>response:
     
     {
       "status": "success",
       "message": "User berhasil dihapus"
     }
 2. deleteUnit: https://kasir-api.belajarqa.com/units/:unitId
-response:
+<br>response:
 
 
        {
@@ -107,7 +107,7 @@ response:
 <hr>
 PUT
 1. updateUser: https://kasir-api.belajarqa.com/users/:userId
-response: 
+<br>response: 
       
       {
         "status": "success",
