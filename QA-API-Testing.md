@@ -51,7 +51,7 @@ POST<br>
           }
        }
 <hr>
-GET
+GET<br>
 1. users: https://kasir-api.belajarqa.com/users/3327a164-8988-4107-8bab-cbcb4a4e7c67
 <br>response:
     
@@ -88,7 +88,7 @@ GET
           }
         }
 <hr>
-DELETE
+DELETE<br>
 1. deleteUser: https://kasir-api.belajarqa.com/users/:userId
 <br>response:
     
@@ -105,7 +105,7 @@ DELETE
          "data": {}
        }
 <hr>
-PUT
+PUT<br>
 1. updateUser: https://kasir-api.belajarqa.com/users/:userId
 <br>response: 
       
