@@ -90,7 +90,7 @@ Code Explanation
 </ol>
 <hr>
 How to Run the Script
-<ul>
+<ol>
     <li>Requirements:</li>
     <ul>
         <li>Java installed on your system.</li>
@@ -113,7 +113,7 @@ How to Run the Script
 <ul>   
     <li>Save the file as HerokuAppTest.java.</li>
     <li>Compile and run:</li>
-</ul>
+</ol>
 
     javac HerokuAppTest.java
     java HerokuAppTest
