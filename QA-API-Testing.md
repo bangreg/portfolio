@@ -34,13 +34,13 @@ POST<br>
 
 3. users: https://kasir-api.belajarqa.com/users
 <br>response:
-<br>2.1 FailToCreateUsers
+<br>3.1 FailToCreateUsers
 
        {
           "email":"samuel@email.com",
           "password":"123adsfadf@"
         }
-2.2 SucceddToCreateUsers
+3.2 SucceddToCreateUsers
 
        {
           "status": "success",
