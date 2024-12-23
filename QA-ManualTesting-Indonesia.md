@@ -63,68 +63,78 @@ Manual Testing Methodologies adalah pendekatan atau strategi yang digunakan untu
         Mengidentifikasi potensi masalah di luar fungsionalitas dasar.</li>
 </ul>
 <li>Regression Testing</li>
-
-    Deskripsi: Menguji kembali aplikasi setelah ada perubahan kode untuk memastikan fitur yang sebelumnya berfungsi masih berjalan dengan baik.
-    Pendekatan:
-        Menggunakan test case yang telah ada untuk fitur lama.
-        Fokus pada area yang terpengaruh oleh perubahan.
-    Contoh:
-        Memastikan fitur login tetap berfungsi setelah pengembang menambahkan autentikasi dua faktor.
-    Keuntungan:
-        Menghindari bug baru saat fitur baru ditambahkan.
-
+<ul>
+    <li>Deskripsi: Menguji kembali aplikasi setelah ada perubahan kode untuk memastikan fitur yang sebelumnya berfungsi masih berjalan dengan baik.</li>
+    <li>Pendekatan:</li>
+        <ul>
+            <li>Menggunakan test case yang telah ada untuk fitur lama.</li>
+            <li>Fokus pada area yang terpengaruh oleh perubahan.</li>
+        </ul>
+    <li>Contoh:
+        Memastikan fitur login tetap berfungsi setelah pengembang menambahkan autentikasi dua faktor.</li>
+    <li>Keuntungan:
+        Menghindari bug baru saat fitur baru ditambahkan.</li>
+</ul>
 <li>Integration Testing</li>
-
-    Deskripsi: Menguji bagaimana modul atau komponen yang berbeda dalam sistem bekerja bersama.
-    Pendekatan:
-        Top-Down: Menguji modul tingkat tinggi terlebih dahulu.
-        Bottom-Up: Menguji modul tingkat rendah terlebih dahulu.
-    Contoh:
-        Memastikan bahwa data yang dimasukkan di UI frontend diterima dan diproses dengan benar oleh backend.
-    Keuntungan:
-        Mengidentifikasi masalah komunikasi antar modul.
-
+<ul>
+    <li>Deskripsi: Menguji bagaimana modul atau komponen yang berbeda dalam sistem bekerja bersama.</li>
+    <li>Pendekatan:</li>
+        <ul>
+            <li>Top-Down: Menguji modul tingkat tinggi terlebih dahulu.</li>
+            <li>Bottom-Up: Menguji modul tingkat rendah terlebih dahulu.</li>
+        </ul>
+    <li>Contoh:
+        Memastikan bahwa data yang dimasukkan di UI frontend diterima dan diproses dengan benar oleh backend.</li>
+    <li>Keuntungan:
+        Mengidentifikasi masalah komunikasi antar modul.</li>
+</ul>
 <li>System Testing</li>
-
-    Deskripsi: Menguji seluruh sistem sebagai kesatuan untuk memastikan aplikasi memenuhi persyaratan akhir.
-    Pendekatan:
-        Menguji semua fungsi utama dan non-fungsional dalam satu lingkungan.
-    Contoh:
-        Menguji aplikasi e-commerce dari login hingga checkout.
-    Keuntungan:
-        Memberikan gambaran lengkap tentang kinerja aplikasi.
+<ul>    
+    <li>Deskripsi: Menguji seluruh sistem sebagai kesatuan untuk memastikan aplikasi memenuhi persyaratan akhir.</li>
+    <li>Pendekatan:
+        Menguji semua fungsi utama dan non-fungsional dalam satu lingkungan.</li>
+    <li>Contoh:
+        Menguji aplikasi e-commerce dari login hingga checkout.</li>
+    <li>Keuntungan:
+        Memberikan gambaran lengkap tentang kinerja aplikasi.</li>
+</ul>
 
 <li>Acceptance Testing</li>
-
-    Deskripsi: Dilakukan untuk memastikan bahwa aplikasi memenuhi kebutuhan pengguna akhir atau bisnis sebelum rilis.
-    Pendekatan:
-        Alpha Testing: Dilakukan oleh tim internal di lingkungan pengujian.
-        Beta Testing: Dilakukan oleh pengguna akhir di lingkungan sebenarnya.
-    Contoh:
-        Meminta pengguna untuk mencoba fitur baru dan memberikan feedback.
-    Keuntungan:
-        Memberikan validasi akhir sebelum peluncuran.
-
+<ul>
+    <li>Deskripsi: Dilakukan untuk memastikan bahwa aplikasi memenuhi kebutuhan pengguna akhir atau bisnis sebelum rilis.</li>
+    <li>Pendekatan:</li>
+        <ul>
+            <li>Alpha Testing: Dilakukan oleh tim internal di lingkungan pengujian.</li>
+            <li>Beta Testing: Dilakukan oleh pengguna akhir di lingkungan sebenarnya.</li>
+        </ul>
+    <li>Contoh:
+        Meminta pengguna untuk mencoba fitur baru dan memberikan feedback.</li>
+    <li>Keuntungan:
+        Memberikan validasi akhir sebelum peluncuran.</li>
+</ul>
 <li>Exploratory Testing</li>
-
-    Deskripsi: Pengujian dinamis di mana tester secara aktif mengeksplorasi aplikasi untuk menemukan bug yang tidak terduga.
-    Pendekatan:
-        Tidak menggunakan test case formal.
-        Mengandalkan pengalaman dan intuisi tester.
-    Contoh:
-        Coba klik tombol beberapa kali dengan cepat untuk melihat apakah aplikasi crash.
-    Keuntungan:
-        Menemukan bug yang tidak terdeteksi oleh metode lain.
-
+<ul>
+    <li>Deskripsi: Pengujian dinamis di mana tester secara aktif mengeksplorasi aplikasi untuk menemukan bug yang tidak terduga.</li>
+    <li>Pendekatan:
+        <ul>
+            <li>Tidak menggunakan test case formal.</li>
+            <li>Mengandalkan pengalaman dan intuisi tester.</li>
+        </ul>
+    <li>Contoh:
+        Coba klik tombol beberapa kali dengan cepat untuk melihat apakah aplikasi crash.</li>
+    <li>Keuntungan:
+        Menemukan bug yang tidak terdeteksi oleh metode lain.</li>
+</ul>
 <li>Ad-Hoc Testing</li>
-
-    Deskripsi: Pengujian tidak terstruktur di mana tester mencoba menemukan bug dengan pendekatan informal dan spontan.
-    Pendekatan:
-        Tidak ada dokumentasi atau skrip yang dibuat sebelumnya.
-    Contoh:
-        Mencoba fitur baru tanpa membaca spesifikasi.
-    Keuntungan:
-        Menghemat waktu untuk pengujian sederhana.
+<ul>
+    <li>Deskripsi: Pengujian tidak terstruktur di mana tester mencoba menemukan bug dengan pendekatan informal dan spontan.</li>
+    <li>Pendekatan:
+        Tidak ada dokumentasi atau skrip yang dibuat sebelumnya.</li>
+    <li>Contoh:
+        Mencoba fitur baru tanpa membaca spesifikasi.</li>
+    <li>Keuntungan:
+        Menghemat waktu untuk pengujian sederhana.</li>
+</ul>
 </ol>
 
 <h3>Kesimpulan</h3>
