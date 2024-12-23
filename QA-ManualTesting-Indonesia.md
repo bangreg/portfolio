@@ -52,17 +52,17 @@ Manual Testing Methodologies adalah pendekatan atau strategi yang digunakan untu
     <li>Keuntungan:
         Fokus pada pengalaman pengguna.</li>
 </ul>
-5. Non-Functional Testing
-
-    Deskripsi: Menguji aspek non-fungsional dari aplikasi seperti performa, keamanan, dan kegunaan.
-    Pendekatan:
-        Melakukan pengujian manual untuk kecepatan, kegunaan, atau daya tahan.
-    Contoh:
-        Memeriksa waktu yang dibutuhkan halaman untuk dimuat.
-    Keuntungan:
-        Mengidentifikasi potensi masalah di luar fungsionalitas dasar.
-
-6. Regression Testing
+<li>Non-Functional Testing</li>
+<ul>
+    <li>Deskripsi: Menguji aspek non-fungsional dari aplikasi seperti performa, keamanan, dan kegunaan.</li>
+    <li>Pendekatan:
+        Melakukan pengujian manual untuk kecepatan, kegunaan, atau daya tahan.</li>
+    <li>Contoh:
+        Memeriksa waktu yang dibutuhkan halaman untuk dimuat.</li>
+    <li>Keuntungan:
+        Mengidentifikasi potensi masalah di luar fungsionalitas dasar.</li>
+</ul>
+<li>Regression Testing</li>
 
     Deskripsi: Menguji kembali aplikasi setelah ada perubahan kode untuk memastikan fitur yang sebelumnya berfungsi masih berjalan dengan baik.
     Pendekatan:
@@ -73,7 +73,7 @@ Manual Testing Methodologies adalah pendekatan atau strategi yang digunakan untu
     Keuntungan:
         Menghindari bug baru saat fitur baru ditambahkan.
 
-7. Integration Testing
+<li>Integration Testing</li>
 
     Deskripsi: Menguji bagaimana modul atau komponen yang berbeda dalam sistem bekerja bersama.
     Pendekatan:
@@ -84,7 +84,7 @@ Manual Testing Methodologies adalah pendekatan atau strategi yang digunakan untu
     Keuntungan:
         Mengidentifikasi masalah komunikasi antar modul.
 
-8. System Testing
+<li>System Testing</li>
 
     Deskripsi: Menguji seluruh sistem sebagai kesatuan untuk memastikan aplikasi memenuhi persyaratan akhir.
     Pendekatan:
@@ -94,7 +94,7 @@ Manual Testing Methodologies adalah pendekatan atau strategi yang digunakan untu
     Keuntungan:
         Memberikan gambaran lengkap tentang kinerja aplikasi.
 
-9. Acceptance Testing
+<li>Acceptance Testing</li>
 
     Deskripsi: Dilakukan untuk memastikan bahwa aplikasi memenuhi kebutuhan pengguna akhir atau bisnis sebelum rilis.
     Pendekatan:
@@ -105,7 +105,7 @@ Manual Testing Methodologies adalah pendekatan atau strategi yang digunakan untu
     Keuntungan:
         Memberikan validasi akhir sebelum peluncuran.
 
-10. Exploratory Testing
+<li>Exploratory Testing</li>
 
     Deskripsi: Pengujian dinamis di mana tester secara aktif mengeksplorasi aplikasi untuk menemukan bug yang tidak terduga.
     Pendekatan:
@@ -116,7 +116,7 @@ Manual Testing Methodologies adalah pendekatan atau strategi yang digunakan untu
     Keuntungan:
         Menemukan bug yang tidak terdeteksi oleh metode lain.
 
-11. Ad-Hoc Testing
+<li>Ad-Hoc Testing</li>
 
     Deskripsi: Pengujian tidak terstruktur di mana tester mencoba menemukan bug dengan pendekatan informal dan spontan.
     Pendekatan:
