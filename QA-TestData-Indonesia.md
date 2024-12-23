@@ -1,5 +1,6 @@
 Test Data adalah data yang digunakan selama proses pengujian untuk memastikan aplikasi bekerja seperti yang diharapkan. Data ini bisa berupa data input (masukan) yang digunakan untuk menguji fitur atau data lingkungan yang mencerminkan kondisi sistem nyata. Berikut adalah panduan tentang cara membuat dan menggunakan Test Data:
-Langkah-Langkah Membuat Test Data
+
+<br><h3>Langkah-Langkah Membuat Test Data</h3>
 1. Pahami Persyaratan Tes
 
     Tinjau dokumen spesifikasi, user stories, atau test case.
@@ -7,26 +8,26 @@ Langkah-Langkah Membuat Test Data
 
     Contoh: Jika menguji fitur pendaftaran pengguna, Anda mungkin membutuhkan:
 
-    -Email yang valid
-    -Email yang sudah digunakan
+    -Email yang valid<br>
+    -Email yang sudah digunakan<br>
     -Format email yang salah (tanpa simbol @, domain tidak lengkap, dll.)
 
 2. Tentukan Sumber Data
 
-    -Manual Input: Data dibuat secara manual berdasarkan kebutuhan pengujian.
-    -Database: Mengambil data langsung dari database sistem (dengan izin yang tepat).
-    -Generator Data Otomatis: Menggunakan alat untuk membuat data uji (contoh: Mockaroo, Faker.js).
+    -Manual Input: Data dibuat secara manual berdasarkan kebutuhan pengujian.<br>
+    -Database: Mengambil data langsung dari database sistem (dengan izin yang tepat).<br>
+    -Generator Data Otomatis: Menggunakan alat untuk membuat data uji (contoh: Mockaroo, Faker.js).<br>
     -Data Riil: Menggunakan data nyata (anonymized) untuk skenario yang lebih kompleks.
 
 3. Klasifikasikan Jenis Data
     Bagi data sesuai dengan jenis pengujian:
-
+     <br>
     -Data Valid: Data yang memenuhi semua persyaratan sistem.
-        Contoh: Nama pengguna dengan panjang antara 5–20 karakter.
+        Contoh: Nama pengguna dengan panjang antara 5–20 karakter.<br>
     -Data Invalid: Data yang melanggar aturan sistem.
-        Contoh: Nama pengguna dengan simbol seperti @!#.
+        Contoh: Nama pengguna dengan simbol seperti @!#.<br>
     -Data Boundary: Data yang berada di batas validasi.
-        Contoh: Nama dengan panjang tepat 5 dan 20 karakter.
+        Contoh: Nama dengan panjang tepat 5 dan 20 karakter.<br>
     -Data Non-Fungsional: Data untuk menguji beban atau stres sistem.
         Contoh: 10.000 entri untuk menguji kapasitas database.
 
