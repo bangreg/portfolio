@@ -58,10 +58,11 @@ Contoh dalam Daily Job:
     Hasil yang Diharapkan: Elemen UI tampil dengan benar, responsif, dan berfungsi sesuai spesifikasi.
 
 Catatan: Tes ini sering mencakup validasi warna, ukuran font, dan responsivitas pada perangkat yang berbeda.
-Rangkuman Penerapan di Daily Job:
 
-    Functional Testing: Fokus pada validasi fitur spesifik, biasanya langkah pertama dalam pengujian manual.
-    Regression Testing: Dilakukan setelah deployment atau patch update untuk memastikan stabilitas aplikasi.
-    Integration Testing: Penting untuk proyek dengan banyak API atau layanan backend.
-    UI Testing: Dilakukan secara reguler untuk memastikan user experience tetap optimal.
-</ol?
+Rangkuman Penerapan di Daily Job:
+<ul>
+    <li>Functional Testing: Fokus pada validasi fitur spesifik, biasanya langkah pertama dalam pengujian manual.</li>
+    <li>Regression Testing: Dilakukan setelah deployment atau patch update untuk memastikan stabilitas aplikasi.</li>
+    <li>Integration Testing: Penting untuk proyek dengan banyak API atau layanan backend.</li>
+    <li>UI Testing: Dilakukan secara reguler untuk memastikan user experience tetap optimal.</li>
+</ol>
