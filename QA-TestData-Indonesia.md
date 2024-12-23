@@ -38,10 +38,12 @@ Bagi data sesuai dengan jenis pengujian:
         Baris: Setiap skenario pengujian.
 
 Contoh Template:
-Input	Expected Output	Remarks
-user@mail.com	Sukses pendaftaran	Data valid
-usermail.com	Gagal: Format tidak valid	Email tanpa '@'
-user@mail.com	Gagal: Email sudah ada	Data duplikat di database
+<table>
+<tr><td>Input</td><td>Expected Output</td><td>Remarks</td></tr>
+<tr></td>user@mail.com</td><td>Sukses pendaftaran</td><td>Data valid</td></tr>
+<tr></td>usermail.com</td><td>Gagal: Format tidak valid</td><td>Email tanpa '@'</td></tr>
+<tr></td>user@mail.com</td><td>Gagal: Email sudah ada</td><td>Data duplikat di database</td></tr>
+</table>
 5. Gunakan Alat untuk Membuat Data Otomatis
 
 Beberapa alat populer untuk menghasilkan Test Data:
