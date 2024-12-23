@@ -1,3 +1,40 @@
+<h3>What is the HTTP Protocol? Is it the same as API Testing?</h3>
+
+The HTTP Protocol and API Testing are related concepts, but they focus on different aspects of software systems. Here's an explanation of each:
+What is the HTTP Protocol?
+
+HTTP (Hypertext Transfer Protocol) is a communication protocol used to transfer data between a client (e.g., a browser or application) and a server over the internet. It forms the foundation of data exchange on the web.
+Key Components of HTTP:
+
+    Request: Sent by the client to the server to fetch or modify data.
+        Example:
+
+    GET /index.html HTTP/1.1
+    Host: www.example.com
+
+Response: Sent by the server back to the client.
+
+    Example:
+
+        HTTP/1.1 200 OK
+        Content-Type: text/html
+
+    HTTP Methods: Define the action to be performed.
+        GET: Retrieve data.
+        POST: Submit data to the server.
+        PUT: Update existing data.
+        DELETE: Remove data.
+    Status Codes: Indicate the result of the request.
+        200 OK: Successful request.
+        404 Not Found: Resource not found.
+        500 Internal Server Error: Server-side error.
+
+Purpose of HTTP:
+
+    Facilitates communication between clients and servers.
+    Used to access web pages, APIs, and other resources.
+
+<hr>
 <h3>API testing of KasirAPI</h3>
 
 View documentation at https://web.postman.co/workspace/43cf99e0-c01c-4daf-9e97-820563165189/documentation/12307865-cbdfed5a-ea4e-4815-8010-4c1b81d7e46d
