@@ -40,9 +40,9 @@ Bagi data sesuai dengan jenis pengujian:
 Contoh Template:
 <table>
 <tr><td>Input</td><td>Expected Output</td><td>Remarks</td></tr>
-<tr></td>user@mail.com</td><td>Sukses pendaftaran</td><td>Data valid</td></tr>
-<tr></td>usermail.com</td><td>Gagal: Format tidak valid</td><td>Email tanpa '@'</td></tr>
-<tr></td>user@mail.com</td><td>Gagal: Email sudah ada</td><td>Data duplikat di database</td></tr>
+<tr><td>user@mail.com</td><td>Sukses pendaftaran</td><td>Data valid</td></tr>
+<tr><td>usermail.com</td><td>Gagal: Format tidak valid</td><td>Email tanpa '@'</td></tr>
+<tr><td>user@mail.com</td><td>Gagal: Email sudah ada</td><td>Data duplikat di database</td></tr>
 </table>
 5. Gunakan Alat untuk Membuat Data Otomatis
 
