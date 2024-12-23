@@ -11,7 +11,7 @@ Langkah Explorasi:
     <li>Masukkan email yang tidak valid (contoh: user@mail atau user@com).</li>
     <li>Gunakan nama yang sangat panjang (lebih dari 100 karakter).</li>
     <li>Biarkan beberapa field kosong lalu klik tombol "Submit".</li>
-    <li>Coba klik tombol "Submit" berulang kali untuk melihat apakah aplikasi crash.</li>
+    <li>Coba klik tombol "Submit" berulang kali (SPAM CLICK) untuk melihat apakah aplikasi crash.</li>
     <li>Gunakan input injection seperti SQL (' OR 1=1;--) untuk menguji keamanan.</li>
     </ul>
 
