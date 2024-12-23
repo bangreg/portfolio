@@ -1,4 +1,5 @@
-1. Functional Testing
+<ol>
+    <li>Functional Testing</li>
 
 Deskripsi:
 Menguji apakah fungsi spesifik dari aplikasi bekerja sesuai dengan persyaratan yang telah ditentukan. Fokus pada apa yang dilakukan aplikasi, bukan bagaimana aplikasi melakukannya.
@@ -13,7 +14,7 @@ Contoh dalam Daily Job:
     Hasil yang Diharapkan: Pengguna berhasil login tanpa error.
 
 Catatan: Jika ditemukan error (misalnya, pengguna valid tidak bisa login), bug akan dicatat dalam sistem pelacakan seperti JIRA.
-2. Regression Testing
+<li>Regression Testing</li>
 
 Deskripsi:
 Memastikan bahwa perubahan kode baru (bug fix atau fitur baru) tidak merusak fitur yang sudah ada.
@@ -27,7 +28,7 @@ Contoh dalam Daily Job:
     Hasil yang Diharapkan: Semua fungsi pencarian lama dan baru bekerja dengan baik.
 
 Catatan: Regression testing sering dilakukan secara manual atau dengan skrip otomatis jika tersedia.
-3. Integration Testing
+<li>Integration Testing</li>
 
 Deskripsi:
 Menguji integrasi antara modul atau komponen dalam sistem untuk memastikan mereka berinteraksi dengan baik.
@@ -42,7 +43,7 @@ Contoh dalam Daily Job:
     Hasil yang Diharapkan: Pesanan berhasil diproses, dan detail transaksi tercatat di database.
 
 Catatan: Integration testing penting saat menggunakan banyak layanan eksternal.
-4. UI Testing
+<li>UI Testing</li>
 
 Deskripsi:
 Menguji antarmuka pengguna untuk memastikan elemen UI bekerja dengan benar dan tampil sesuai desain.
@@ -63,3 +64,4 @@ Rangkuman Penerapan di Daily Job:
     Regression Testing: Dilakukan setelah deployment atau patch update untuk memastikan stabilitas aplikasi.
     Integration Testing: Penting untuk proyek dengan banyak API atau layanan backend.
     UI Testing: Dilakukan secara reguler untuk memastikan user experience tetap optimal.
+</ol?
