@@ -16,38 +16,42 @@ Manual Testing Methodologies adalah pendekatan atau strategi yang digunakan untu
         </ul>
     </li>
 </ul>
-2. White Box Testing
-
-    Deskripsi: Menguji aplikasi dengan memahami struktur internal dan logika kode.
-    Pendekatan:
-        Menggunakan teknik seperti statement coverage, branch coverage, dan path coverage.
-        Memerlukan pengetahuan teknis tentang kode.
-    Contoh:
-        Memeriksa logika kondisi if-else dalam kode untuk memastikan semua cabang diuji.
-    Keuntungan:
-        Membantu menemukan bug dalam logika dan implementasi.
-
-3. Grey Box Testing
-
-    Deskripsi: Kombinasi dari black box dan white box testing; tester memiliki sebagian pengetahuan tentang struktur internal sistem.
-    Pendekatan:
-        Menggunakan pemahaman sebagian tentang arsitektur untuk membuat test case yang lebih efektif.
-    Contoh:
-        Menguji bagaimana API backend memproses data yang diinput melalui UI frontend.
-    Keuntungan:
-        Lebih efektif dalam menemukan bug di sistem yang kompleks.
-
-4. Functional Testing
-
-    Deskripsi: Menguji fungsionalitas sistem untuk memastikan aplikasi bekerja sesuai spesifikasi.
-    Pendekatan:
-        Membuat test case berdasarkan requirement specification.
-        Memastikan setiap fungsi memberikan hasil yang benar.
-    Contoh:
-        Memeriksa apakah fitur pencarian menghasilkan hasil yang sesuai dengan kata kunci.
-    Keuntungan:
-        Fokus pada pengalaman pengguna.
-
+<li>White Box Testing</li>
+<ul>
+    <li>Deskripsi: Menguji aplikasi dengan memahami struktur internal dan logika kode.</li>
+    <li>Pendekatan:</li>
+        <ul>
+            <li>Menggunakan teknik seperti statement coverage, branch coverage, dan path coverage.</li>
+            <li>Memerlukan pengetahuan teknis tentang kode.</li>
+        </ul>
+    <li>Contoh:
+        Memeriksa logika kondisi if-else dalam kode untuk memastikan semua cabang diuji.</li>
+    <li>Keuntungan:
+        Membantu menemukan bug dalam logika dan implementasi.</li>
+</ul>
+<li>Grey Box Testing</li>
+    <ul>
+    <li>Deskripsi: Kombinasi dari black box dan white box testing; tester memiliki sebagian pengetahuan tentang struktur internal sistem.</li>
+    <li>Pendekatan:
+        Menggunakan pemahaman sebagian tentang arsitektur untuk membuat test case yang lebih efektif.</li>
+    <li>Contoh:
+        Menguji bagaimana API backend memproses data yang diinput melalui UI frontend.</li>
+    <li>Keuntungan:
+        Lebih efektif dalam menemukan bug di sistem yang kompleks.</li>
+    </ul>
+<li>Functional Testing</li>
+<ul>
+    <li>Deskripsi: Menguji fungsionalitas sistem untuk memastikan aplikasi bekerja sesuai spesifikasi.</li>
+    <li>Pendekatan:</li>
+        <ul>
+            <li>Membuat test case berdasarkan requirement specification.</li>
+            <li>Memastikan setiap fungsi memberikan hasil yang benar.</li>
+        </ul>
+    <li>Contoh:
+        Memeriksa apakah fitur pencarian menghasilkan hasil yang sesuai dengan kata kunci.</li>
+    <li>Keuntungan:
+        Fokus pada pengalaman pengguna.</li>
+</ul>
 5. Non-Functional Testing
 
     Deskripsi: Menguji aspek non-fungsional dari aplikasi seperti performa, keamanan, dan kegunaan.
