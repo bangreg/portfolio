@@ -46,7 +46,7 @@ Langkah Explorasi:
         <li>Lakukan transfer berulang kali dalam waktu yang sangat singkat untuk menguji throttling.</li>
         <li>Ubah pengaturan bahasa aplikasi dan coba transfer kembali.</li>
         <li>Matikan koneksi internet di tengah proses transfer.</li>
-
+    </ul>
 Tujuan:
 
     Mengungkap masalah seperti bug validasi input, performa aplikasi, atau penanganan error jaringan.
@@ -78,7 +78,7 @@ Langkah Explorasi:
         <li>Matikan koneksi internet di tengah proses unggah.</li>
         <li>Coba unggah file yang sama berulang kali.</li>
         <li>Lihat bagaimana aplikasi menangani file dengan nama panjang atau karakter spesial.</li>
-
+    </ul>
 Tujuan:
 
     Menemukan bug seperti crash, error handling yang buruk, atau batasan yang tidak diimplementasikan.
