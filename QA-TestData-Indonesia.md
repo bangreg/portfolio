@@ -64,13 +64,13 @@ Contoh Skenario Membuat Test Data
 Skenario: Menguji formulir pendaftaran pengguna.
 Langkah:
 
-    Identifikasi input formulir: Nama, Email, Kata Sandi, Nomor Telepon.
-    Tentukan aturan validasi:
+    1. Identifikasi input formulir: Nama, Email, Kata Sandi, Nomor Telepon.
+    2. Tentukan aturan validasi:
         Nama: 5-20 karakter, tanpa simbol.
         Email: Format email valid.
         Kata Sandi: Minimal 8 karakter, mengandung angka dan huruf besar.
         Nomor Telepon: 10 digit, tanpa spasi atau simbol.
-    Buat dataset:
+    3. Buat dataset:
         Valid: JohnDoe, john.doe@mail.com, Password123, 08123456789.
         Invalid:
             Nama: J@hn, J.
