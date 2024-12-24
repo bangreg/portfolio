@@ -24,6 +24,7 @@ Response: Sent by the server back to the client.
         POST: Submit data to the server.
         PUT: Update existing data.
         DELETE: Remove data.
+        
     Status Codes: Indicate the result of the request.
         200 OK: Successful request.
         404 Not Found: Resource not found.
