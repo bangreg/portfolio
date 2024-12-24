@@ -1,7 +1,7 @@
 Exploratory Testing adalah metode pengujian yang melibatkan eksplorasi aplikasi secara dinamis tanpa mengikuti skrip pengujian yang telah ditentukan sebelumnya. Tujuannya adalah untuk menemukan potensi masalah, bug yang tidak terduga, atau area perbaikan yang mungkin terlewat oleh pengujian formal.
 
 Berikut adalah contoh kasus penggunaan exploratory testing untuk memastikan kualitas produk:
-<ol><li>Menguji Formulir Pendaftaran</li>
+<ol><li>Menguji Registration Form</li>
 
 Skenario: Anda sedang menguji fitur pendaftaran pengguna pada sebuah aplikasi.
 
@@ -19,7 +19,7 @@ Tujuan:
 
     Menemukan bug seperti error handling yang buruk, validasi input yang lemah, atau potensi celah keamanan.
 
-<li>Menguji Aplikasi E-Commerce</li>
+<li>Menguji E-Commerce App</li>
 
 Skenario: Anda menguji fitur "Add to Cart" pada aplikasi belanja online.
 
@@ -35,7 +35,7 @@ Tujuan:
 
     Menemukan bug seperti ketidaksesuaian jumlah item, kerusakan data sesi, atau kerentanan UI.
 
-<li>Menguji Aplikasi Mobile Banking</li>
+<li>Menguji Mobile Banking App</li>
 
 Skenario: Menguji fungsi transfer dana pada aplikasi mobile banking.
 
@@ -51,7 +51,7 @@ Tujuan:
 
     Mengungkap masalah seperti bug validasi input, performa aplikasi, atau penanganan error jaringan.
 
-<li>Menguji API Backend</li>
+<li>Menguji Backend API</li>
 
 Skenario: Menguji API untuk fitur pencarian dalam aplikasi.
 
@@ -67,7 +67,7 @@ Tujuan:
 
     Menemukan kelemahan dalam validasi parameter, respons waktu, atau stabilitas API.
 
-<li>Menguji Aplikasi Media Sosial</li>
+<li>Menguji Social Media App</li>
 
 Skenario: Menguji fitur unggah gambar pada aplikasi media sosial.
 
