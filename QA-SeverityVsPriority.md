@@ -22,7 +22,7 @@ Definition:
 Critical issues that directly impact the core functionality of the application, leading to major disruptions or preventing users from completing essential tasks.		
 Examples:		
 1. System crashes when a user attempts to log in.		
-2. Key features (e.g., payment processing or file uploads) are completely non-functional.		
+2. Key features (e.g., payment processing or file uploads) are completely non-functional.<br>		
 3. Security vulnerabilities (e.g., passwords displayed in plaintext).		
 Impact:		
 1. Prevents users from completing primary tasks.		
@@ -35,7 +35,7 @@ Issues that affect part of the application’s functionality or user experience 
 Examples:		
 1. A button is not functioning, but the same action can be performed elsewhere.		
 2. Error messages are unclear or misleading (e.g., "Invalid request" without details).		
-3. Slow application response for specific actions but no crashes.		
+3. Slow application response for specific actions but no crashes.		<br>
 Impact:		
 1. Causes inconvenience to users.		
 2. May affect certain tasks, but the application remains usable.		
@@ -48,7 +48,7 @@ Issues with minimal impact on application functionality that do not significantl
 Examples:		
 1. Typographical errors (e.g., "Welcom" instead of "Welcome").		
 2. Slight misalignment of UI elements.		
-3. Incorrect color or icon that doesn’t affect functionality.		
+3. Incorrect color or icon that doesn’t affect functionality.	<br>	
 Impact:		
 1. Does not disrupt the overall user experience.		
 2. Has no effect on core application workflows.		
