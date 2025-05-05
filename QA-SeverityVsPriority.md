@@ -11,7 +11,7 @@ Definition:
 Issues with a severe impact, such as data loss or significant security breaches.		
 Examples:		
 1. Data leakage of sensitive user information.		
-2. A complete breakdown of the core application for all users.		
+2. A complete breakdown of the core application for all users.	<br>	
 Impact:		
 1. Must be fixed immediately, outside regular maintenance schedules.		
 2. Can lead to severe legal, financial, or operational consequences.		
