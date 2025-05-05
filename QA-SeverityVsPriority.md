@@ -23,7 +23,7 @@ Critical issues that directly impact the core functionality of the application, 
 Examples:		
 1. System crashes when a user attempts to log in.		
 2. Key features (e.g., payment processing or file uploads) are completely non-functional.<br>		
-3. Security vulnerabilities (e.g., passwords displayed in plaintext).		
+3. Security vulnerabilities (e.g., passwords displayed in plaintext).		<br>
 Impact:		
 1. Prevents users from completing primary tasks.		
 2. Can result in financial, reputational, or security risks.		
